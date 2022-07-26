@@ -11,7 +11,7 @@
 
 <p>
 <a href="https://www.linkedin.com/in/martin-w-4749b21b1/" target="blank">
-  <img src="https://img.shields.io/badge/-MARTIN-F7DF1E?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MARTIN-d83a7c?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 </p>
 
