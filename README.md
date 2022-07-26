@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**mine-martin/mine-martin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Hello there 👋
 
 ## I'm Martin
@@ -54,8 +49,6 @@
 
 ## ⚡ Fun fact:
 
-- I have no degree. Never went to university.
-
----
+- I have no degree.
 
 Created on 26/07/2022
