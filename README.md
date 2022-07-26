@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-4EA94B?style=for-the-badge&logo=mongodb&logoColor=yellow">
 <img src="https://img.shields.io/badge/PostgreSQL-14354C?style=for-the-badge&logo=postgreSQL&logoColor=blue">
-<img src="https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mySQL&logoColor=bluemy">
+<img src="https://img.shields.io/badge/MySQL-14354c?style=for-the-badge&logo=mySQL&logoColor=bluemy">
 </p>
 
 ## Github STATS :cyclone:
