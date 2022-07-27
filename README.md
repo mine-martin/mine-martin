@@ -34,7 +34,7 @@
 ## Github STATS :cyclone:
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=mine-martin&show_icons=true&theme=radical)
-![My Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
+![My Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&theme=radical)
 <br>
 
 ## Some Repos to Visit :blossom:
