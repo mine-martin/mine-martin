@@ -33,7 +33,8 @@
 
 ## Github STATS :cyclone:
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=mine-martin&show_icons=true&theme=radical)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=mine-martin&show_icons=true&theme=radical)
+![My Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
 <br>
 
 ## Some Repos to Visit :blossom:
@@ -51,4 +52,4 @@
 
 - I have no degree.
 
-Created on 26/07/2022
+updated on 27/07/2022
