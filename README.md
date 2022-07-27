@@ -41,9 +41,6 @@
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mine-martin&repo=ImageGalleryAPI&show_icons=true&theme=radical)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mine-martin&repo=react-form-fields&show_icons=true&theme=radical)
 
-##My Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=mine-martin&&title=Followers&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Open For Oppurtunities :purple_heart:
 
 - Web Developer
