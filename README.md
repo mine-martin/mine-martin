@@ -47,5 +47,3 @@
 - Full Stack Developer
 - BackEnd Developer
 - FrontEnd Developer
-
-updated on 30/07/2022
