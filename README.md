@@ -48,8 +48,4 @@
 - BackEnd Developer
 - FrontEnd Developer
 
-## ⚡ Fun fact:
-
-- I have no degree.
-
-updated on 27/07/2022
+updated on 30/07/2022
