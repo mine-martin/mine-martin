@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/badge/MySQL-14354c?style=for-the-badge&logo=mySQL&logoColor=bluemy">
 </p>
 
+<!-- 
 ## Github STATS :cyclone:
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=mine-martin&show_icons=true&theme=radical)
@@ -40,6 +41,7 @@
 ## Some Repos to Visit :blossom:
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mine-martin&repo=ImageGalleryAPI&show_icons=true&theme=radical)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mine-martin&repo=react-form-fields&show_icons=true&theme=radical)
+-->
 
 ## Open For Oppurtunities :purple_heart:
 
