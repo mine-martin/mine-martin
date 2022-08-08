@@ -5,7 +5,6 @@
 - 👯 I’m a full-stack Developer, 💻 software
 - 🌱 Currently learning NestJS
 - 💬 Ask me about web development using NodeJS and ReactJS.
-- 📫 Email me at wangondumn@gmail.com
 
 ## Active On :
 
